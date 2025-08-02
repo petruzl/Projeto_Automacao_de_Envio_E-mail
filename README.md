@@ -21,3 +21,6 @@ Benefícios
 Uso
 1. Configure o acesso ao banco e credenciais de e-mail no arquivo de configuração.
 2. Execute `main.py` manualmente ou agende via Task Scheduler.
+3. Sempre que precisar instalar todas as dependências em outro ambiente, use:
+     pip install -r requirements.txt
+
